@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c63074292fdb7110763ccfedf699b658" extends="task" label="InsightNest" max_length="40" name="x_721458_innohub_a_insightnest" type="collection"/>
+</database>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">d93a4739e821211076da10591ad2873f</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-23 17:02:10</sys_created_on>
+        <sys_id>0a3074292fdb7110763ccfedf699b6a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="InnoHub Application" source="x_721458_innohub_a">cc3e60652fdb7110763ccfedf699b67a</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-23 17:02:10</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
