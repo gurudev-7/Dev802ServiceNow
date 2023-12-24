@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_u_priority">
+    <dl_u_priority action="DELETE">
+        <active>true</active>
+        <impact>3</impact>
+        <order>80</order>
+        <priority>4</priority>
+        <sys_class_name>dl_u_priority</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-23 18:34:42</sys_created_on>
+        <sys_id>6d6585252f5f7110763ccfedf699b6e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>80</sys_name>
+        <sys_package display_value="InnoHub Application" source="x_721458_innohub_a">cc3e60652fdb7110763ccfedf699b67a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InnoHub Application">cc3e60652fdb7110763ccfedf699b67a</sys_scope>
+        <sys_update_name>dl_u_priority_6d6585252f5f7110763ccfedf699b6e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-23 18:34:42</sys_updated_on>
+        <urgency>2</urgency>
+    </dl_u_priority>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="InnoHub Application">cc3e60652fdb7110763ccfedf699b67a</application>
+        <file_path/>
+        <instance_id>f09030fcdbf8b3800b9d21c405961992</instance_id>
+        <instance_name>dev80260</instance_name>
+        <name>dl_u_priority_6d6585252f5f7110763ccfedf699b6e2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_u_priority"><dl_u_priority action="INSERT_OR_UPDATE"><active>true</active><impact>3</impact><order>80</order><priority>4</priority><sys_class_name>dl_u_priority</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-23 18:34:42</sys_created_on><sys_id>6d6585252f5f7110763ccfedf699b6e2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>80</sys_name><sys_package display_value="InnoHub Application" source="x_721458_innohub_a">cc3e60652fdb7110763ccfedf699b67a</sys_package><sys_policy/><sys_scope display_value="InnoHub Application">cc3e60652fdb7110763ccfedf699b67a</sys_scope><sys_update_name>dl_u_priority_6d6585252f5f7110763ccfedf699b6e2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-23 18:34:42</sys_updated_on><urgency>2</urgency></dl_u_priority></record_update>]]></payload>
+        <payload_hash>605619201</payload_hash>
+        <record_name>80</record_name>
+        <reverted_from/>
+        <source>11c030692fdb7110763ccfedf699b636</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-23 18:34:42</sys_created_on>
+        <sys_id>2d6585252f5f7110763ccfedf699b6e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c97f542b90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-23 18:34:42</sys_updated_on>
+        <type>Priority Data Lookup</type>
+        <update_guid>61658525fb5f711031b74921485e97e4</update_guid>
+        <update_guid_history>61658525fb5f711031b74921485e97e4:605619201</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="80">a31f9be92f1bb110763ccfedf699b695</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-24 05:46:18</sys_created_on>
+        <sys_db_object display_value="" name="dl_u_priority">dl_u_priority</sys_db_object>
+        <sys_id>06cba1fc9bb24fb8a16a76d1f4b058a9</sys_id>
+        <sys_metadata>6d6585252f5f7110763ccfedf699b6e2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>80</sys_name>
+        <sys_package display_value="InnoHub Application" source="x_721458_innohub_a">cc3e60652fdb7110763ccfedf699b67a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="InnoHub Application">cc3e60652fdb7110763ccfedf699b67a</sys_scope>
+        <sys_scope_delete display_value="">bdeeee2d2038447c91517686cd56cc10</sys_scope_delete>
+        <sys_update_name>dl_u_priority_6d6585252f5f7110763ccfedf699b6e2</sys_update_name>
+        <sys_update_version display_value="dl_u_priority_6d6585252f5f7110763ccfedf699b6e2">2d6585252f5f7110763ccfedf699b6e4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-24 05:46:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

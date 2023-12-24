@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="ba85b4ed2fdb7110763ccfedf699b6fa" sys_domain="global" table="x_721458_innohub_a_insightnest" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-23 17:25:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e85b4ed2fdb7110763ccfedf699b6fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_721458_innohub_a_insightnest" name="x_721458_innohub_a_insightnest" sys_domain="global" view="Default view">ba85b4ed2fdb7110763ccfedf699b6fa</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_721458_innohub_a_insightnest" sys_domain="global" view="Default view">45d3bc2d2fdb7110763ccfedf699b6ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-23 17:25:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-23 17:25:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f685b4ed2fdb7110763ccfedf699b6fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_721458_innohub_a_insightnest" name="x_721458_innohub_a_insightnest" sys_domain="global" view="Default view">ba85b4ed2fdb7110763ccfedf699b6fa</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_721458_innohub_a_insightnest" sys_domain="global" view="Default view">7a85b4ed2fdb7110763ccfedf699b6f9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-23 17:25:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-23 17:31:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>07f674612f1f7110763ccfedf699b667</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_721458_innohub_a_insightnest" name="x_721458_innohub_a_insightnest" sys_domain="global" view="Default view">ba85b4ed2fdb7110763ccfedf699b6fa</sys_ui_form>
+            <sys_ui_section caption="Close Notes" display_value="Close Notes" name="x_721458_innohub_a_insightnest" sys_domain="global" view="Default view">36f674612f1f7110763ccfedf699b664</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-23 17:31:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_721458_innohub_a_insightnest</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-23 17:25:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba85b4ed2fdb7110763ccfedf699b6fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_721458_innohub_a_insightnest</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="InnoHub Application" source="x_721458_innohub_a">cc3e60652fdb7110763ccfedf699b67a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="InnoHub Application">cc3e60652fdb7110763ccfedf699b67a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ba85b4ed2fdb7110763ccfedf699b6fa</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-23 17:25:25</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_subcategory" table="x_721458_innohub_a_insightnest" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_subcategory</element>
+            <name>x_721458_innohub_a_insightnest</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-23 18:09:09</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_subcategory</sys_name>
+            <sys_package display_value="InnoHub Application" source="x_721458_innohub_a">cc3e60652fdb7110763ccfedf699b67a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="InnoHub Application">cc3e60652fdb7110763ccfedf699b67a</sys_scope>
+            <sys_update_name>sys_choice_x_721458_innohub_a_insightnest_u_subcategory</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-23 18:09:09</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>u_software</dependent_value>
+            <element>u_subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Andriod</label>
+            <language>en</language>
+            <name>x_721458_innohub_a_insightnest</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-23 18:09:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-24 06:18:39</sys_updated_on>
+            <value>andriod</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>u_software</dependent_value>
+            <element>u_subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mac</label>
+            <language>en</language>
+            <name>x_721458_innohub_a_insightnest</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-23 18:09:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-24 06:18:42</sys_updated_on>
+            <value>mac</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>u_software</dependent_value>
+            <element>u_subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Windows</label>
+            <language>en</language>
+            <name>x_721458_innohub_a_insightnest</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-23 18:09:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-24 06:18:48</sys_updated_on>
+            <value>windows</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>u_database</dependent_value>
+            <element>u_subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MySQL</label>
+            <language>en</language>
+            <name>x_721458_innohub_a_insightnest</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-24 06:22:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-24 06:23:10</sys_updated_on>
+            <value>mysql</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>u_database</dependent_value>
+            <element>u_subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MongoDB</label>
+            <language>en</language>
+            <name>x_721458_innohub_a_insightnest</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-24 06:23:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-24 06:24:26</sys_updated_on>
+            <value>mongodb</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>u_database</dependent_value>
+            <element>u_subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Oracle</label>
+            <language>en</language>
+            <name>x_721458_innohub_a_insightnest</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-24 06:24:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-24 06:24:26</sys_updated_on>
+            <value>oracle</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>u_network</dependent_value>
+            <element>u_subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WAN</label>
+            <language>en</language>
+            <name>x_721458_innohub_a_insightnest</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-24 06:25:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-24 06:26:11</sys_updated_on>
+            <value>wan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>u_network</dependent_value>
+            <element>u_subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LAN</label>
+            <language>en</language>
+            <name>x_721458_innohub_a_insightnest</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-24 06:25:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-24 06:26:11</sys_updated_on>
+            <value>lan</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

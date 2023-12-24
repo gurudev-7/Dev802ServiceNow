@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="DELETE">
+        <attributes/>
+        <attributes_override>false</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value>5</default_value>
+        <default_value_override>true</default_value_override>
+        <dependent/>
+        <dependent_override>false</dependent_override>
+        <display_override>false</display_override>
+        <element>priority</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>false</mandatory_override>
+        <name>x_721458_innohub_a_insightnest</name>
+        <read_only>false</read_only>
+        <read_only_override>false</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-23 18:27:42</sys_created_on>
+        <sys_id>3cc349a12f5f7110763ccfedf699b62f</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>priority</sys_name>
+        <sys_package display_value="InnoHub Application" source="x_721458_innohub_a">cc3e60652fdb7110763ccfedf699b67a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InnoHub Application">cc3e60652fdb7110763ccfedf699b67a</sys_scope>
+        <sys_update_name>sys_dictionary_override_3cc349a12f5f7110763ccfedf699b62f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-23 18:40:07</sys_updated_on>
+    </sys_dictionary_override>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="InnoHub Application">cc3e60652fdb7110763ccfedf699b67a</application>
+        <file_path/>
+        <instance_id>f09030fcdbf8b3800b9d21c405961992</instance_id>
+        <instance_name>dev80260</instance_name>
+        <name>sys_dictionary_override_3cc349a12f5f7110763ccfedf699b62f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override"><sys_dictionary_override action="INSERT_OR_UPDATE"><attributes/><attributes_override>false</attributes_override><base_table>task</base_table><calculation/><calculation_override>false</calculation_override><default_value>5</default_value><default_value_override>true</default_value_override><dependent/><dependent_override>false</dependent_override><display_override>false</display_override><element>priority</element><mandatory>false</mandatory><mandatory_override>false</mandatory_override><name>x_721458_innohub_a_insightnest</name><read_only>false</read_only><read_only_override>false</read_only_override><reference_qual/><reference_qual_override>false</reference_qual_override><sys_class_name>sys_dictionary_override</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-23 18:27:42</sys_created_on><sys_id>3cc349a12f5f7110763ccfedf699b62f</sys_id><sys_mod_count>3</sys_mod_count><sys_name>priority</sys_name><sys_package display_value="InnoHub Application" source="x_721458_innohub_a">cc3e60652fdb7110763ccfedf699b67a</sys_package><sys_policy/><sys_scope display_value="InnoHub Application">cc3e60652fdb7110763ccfedf699b67a</sys_scope><sys_update_name>sys_dictionary_override_3cc349a12f5f7110763ccfedf699b62f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-23 18:40:07</sys_updated_on></sys_dictionary_override></record_update>]]></payload>
+        <payload_hash>-508798353</payload_hash>
+        <record_name>priority</record_name>
+        <reverted_from/>
+        <source>11c030692fdb7110763ccfedf699b636</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-23 18:40:07</sys_created_on>
+        <sys_id>89a6c9252f5f7110763ccfedf699b678</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c97fa3aad0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-23 18:40:07</sys_updated_on>
+        <type>Dictionary Entry Override</type>
+        <update_guid>41a6c925225f7110fb9a1b427cf1b278</update_guid>
+        <update_guid_history>41a6c925225f7110fb9a1b427cf1b278:-508798353,eb864925a35f71102f783a4a2d53b4b6:1296809685,ed04cda1635f7110b69a22d4b940ba01:-736124290,cbc309a10d5f7110316830852a140906:1872238066</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-24 05:52:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary_override">sys_dictionary_override</sys_db_object>
+        <sys_id>0694636736c347208043caed819ea899</sys_id>
+        <sys_metadata>3cc349a12f5f7110763ccfedf699b62f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>priority</sys_name>
+        <sys_package display_value="InnoHub Application" source="x_721458_innohub_a">cc3e60652fdb7110763ccfedf699b67a</sys_package>
+        <sys_parent display_value="Sub Category">838f7c2d2f1f7110763ccfedf699b622</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="InnoHub Application">cc3e60652fdb7110763ccfedf699b67a</sys_scope>
+        <sys_scope_delete display_value="">bdeeee2d2038447c91517686cd56cc10</sys_scope_delete>
+        <sys_update_name>sys_dictionary_override_3cc349a12f5f7110763ccfedf699b62f</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_override_3cc349a12f5f7110763ccfedf699b62f">89a6c9252f5f7110763ccfedf699b678</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-24 05:52:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

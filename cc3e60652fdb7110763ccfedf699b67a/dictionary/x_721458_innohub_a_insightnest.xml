@@ -1,3 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="c63074292fdb7110763ccfedf699b658" extends="task" label="InsightNest" max_length="40" name="x_721458_innohub_a_insightnest" type="collection"/>
+    <element audit="true" db_object_id="c63074292fdb7110763ccfedf699b658" extends="task" label="InsightNest" max_length="40" name="x_721458_innohub_a_insightnest" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="u_software" label="Category" mandatory="true" max_length="40" name="u_category" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Software" sequence="1" value="u_software"/>
+                <element inactive_on_update="false" label="Network" sequence="2" value="u_network"/>
+                <element inactive_on_update="false" label="Database" sequence="3" value="u_database"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="InnoHub User" mandatory="true" max_length="32" name="u_innuser" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="u_category" dependent_on_field="u_category" label="Sub Category" mandatory="true" max_length="40" name="u_subcategory" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="u_software" inactive_on_update="false" label="Andriod" sequence="0" value="andriod"/>
+                <element dependent_value="u_software" inactive_on_update="false" label="Mac" sequence="1" value="mac"/>
+                <element dependent_value="u_software" inactive_on_update="false" label="Windows" sequence="2" value="windows"/>
+                <element dependent_value="u_database" inactive_on_update="false" label="MySQL" sequence="3" value="mysql"/>
+                <element dependent_value="u_database" inactive_on_update="false" label="MongoDB" sequence="4" value="mongodb"/>
+                <element dependent_value="u_database" inactive_on_update="false" label="Oracle" sequence="5" value="oracle"/>
+                <element dependent_value="u_network" inactive_on_update="false" label="WAN" sequence="6" value="wan"/>
+                <element dependent_value="u_network" inactive_on_update="false" label="LAN" sequence="7" value="lan"/>
+            </choice>
+        </element>
+    </element>
 </database>
